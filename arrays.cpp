@@ -4,7 +4,7 @@
  * compile and run with with: 
        clang++ -std=c++17 -Wall -Wextra -pedantic -c arrays.cpp
        clang++ -o arrays arrays.o
-       ./array
+       ./arrays
  *
  * Your task:
  *    - Compile and run the program.
