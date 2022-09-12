@@ -22,6 +22,7 @@
  *    - Run the program with using valgrind:   valgrind ./arrays
  *        - Did this help?
  *    - Rerun clang commands adding: -fsanitize=undefined,address,bounds
+ *        - Add this option to the very front of BOTH clang++ commands
  *        - Did this help?
  */
 
